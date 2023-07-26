@@ -1,4 +1,4 @@
-![embedded software developer](https://github.com/vyomanaut1012/vyomanaut1012/blob/main/satellite-3977165.jpg)
+![Fullstack web developer](https://github.com/vyomanaut1012/vyomanaut1012/blob/main/satellite-3977165.jpg)
 
 ### Hi there 👋, Akash Singh
 I'm from India, and currently I am learning a embedded system and ROS. I am really enjoy to working on embedded system as well as in ROS. I am work on many embedded projects. I have a experience of work with many microcontroller like ATmega
