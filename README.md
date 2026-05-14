@@ -1,5 +1,5 @@
 # 💫 (नमस्ते) Hii, I am Akash Singh
-🔭 I’m currently working on MERN stack<br>✍️ Love to do Competitive Programing<br>🏫 I’m Final Year Undergrad student<br>💬 Ask me about DSA and Development<br>📫 reach me : singhofficial101201@gmail.com
+🔭 I’m currently working on MERN stack<br>✍️ Love to do Competitive Programing<br>🏫 I’m Full time Software Developer<br>💬 Ask me about Development and System Design<br>📫 reach me : akashsingh101201@gmail.com
 
 
 ## 🌐 Socials:
